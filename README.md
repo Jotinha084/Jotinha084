@@ -9,9 +9,9 @@ Graduando em **Tecnologia da Informação** pela **Universidade Federal Rural do
 
 ---
 
-### Tecnologias e Ferramentas
+### Linguagens, Tecnologias e Ferramentas
 
-**Linguagens**
+**Linguagens e Tecnologias**
 <p>
   <img src="https://skillicons.dev/icons?i=c,html,css,js,nodejs,mysql " />
 </p>
