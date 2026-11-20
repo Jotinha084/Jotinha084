@@ -5,7 +5,7 @@ Graduando em **Tecnologia da Informação** pela **Universidade Federal Rural do
 
 - **Formação:** Bacharelado em Tecnologia da Informação — UFERSA
 - **Foco atual:** Desenvolvimento Front-End (JavaScript, HTML5 e CSS) Back-End (Node.js, MySQL)
-- **Contato:** johnkerry144ds@gmail.com | [LinkedIn](https://linkedin.com/in/seu-usuario)
+- **Contato:** johnkerry144ds@gmail.com
 
 ---
 
@@ -13,7 +13,7 @@ Graduando em **Tecnologia da Informação** pela **Universidade Federal Rural do
 
 **Linguagens**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,node.js,mysql " />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,nodejs,mysql " />
 </p>
 
 **Linguagens & Ferramentas**
