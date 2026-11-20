@@ -16,7 +16,7 @@ Graduando em **Tecnologia da Informação** pela **Universidade Federal Rural do
   <img src="https://skillicons.dev/icons?i=c,html,css,js,nodejs,mysql " />
 </p>
 
-**Linguagens & Ferramentas**
+**Ferramentas**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
