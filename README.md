@@ -11,19 +11,14 @@ Graduando em **Tecnologia da Informação** pela **Universidade Federal Rural do
 
 ### Tecnologias e Ferramentas
 
-**Front-end**
+**Linguagens**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-**Back-end & Banco de Dados**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,node.js,mysql " />
 </p>
 
 **Linguagens & Ferramentas**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
