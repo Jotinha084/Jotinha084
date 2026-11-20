@@ -1,5 +1,5 @@
 
-### Olá, eu sou o John Dantas 👋
+### Olá mundo! eu sou o John Dantas!
 
 Graduando em **Tecnologia da Informação** pela **Universidade Federal Rural do Semi-Árido (UFERSA)**. Tenho foco em desenvolvimento web full-stack e sólida base em lógica de programação, estruturas de dados e bancos de dados relacionais.
 
